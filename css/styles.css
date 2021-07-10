@@ -1,20 +1,18 @@
-@keyframes change-image {
-    0% {
-        background-image: url(../images/);
-    }
-    27% {
-        background-image: url(../images/clint-patterson-dYEuFB8KQJk-unsplash.jpg);
-    }
-    45% {
-        background-image: url(../images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg);
-    }
-    72% {
-        background-image: url(../images/uriel-soberanes-MxVkWPiJALs-unsplash.jpg);
-    }
-    90% {
-        background-image: url(../images/jakob-owens-HuNenPCNG84-unsplash.jpg);
-    }
-    100% {
-        background-image: url(../images/photo_2021-04-29_11-00-40.jpg);
-    }
 
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-image: url(../images/javier-martinez-hUD0PUczwJQ-unsplash.jpg);
+    background-size: 100%;
+}
+nav {
+    color: lawngreen;
+}
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
