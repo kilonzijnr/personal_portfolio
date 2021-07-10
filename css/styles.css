@@ -1,197 +1,20 @@
 @keyframes change-image {
     0% {
-        background-image: url(../images/pawel-czerwinski-Qiy4hr18aGs-unsplash.jpg);
+        background-image: url(../images/);
     }
     27% {
-        background-image: url(../images/photo-1605478185737-99ae313e940c.jpeg);
+        background-image: url(../images/clint-patterson-dYEuFB8KQJk-unsplash.jpg);
     }
     45% {
-        background-image: url(../images/pawel-czerwinski-4gWNAWeOvP0-unsplash.jpg);
+        background-image: url(../images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg);
     }
     72% {
-        background-image: url(../images/wp2561064.jpg);
+        background-image: url(../images/uriel-soberanes-MxVkWPiJALs-unsplash.jpg);
     }
     90% {
-        background-image: url(../images/Pink-pastel-ppt-background.jpg);
+        background-image: url(../images/jakob-owens-HuNenPCNG84-unsplash.jpg);
     }
     100% {
-        background-image: url(../images/pawel-czerwinski-Qiy4hr18aGs-unsplash.jpg);
+        background-image: url(../images/photo_2021-04-29_11-00-40.jpg);
     }
-}
-
-@keyframes change-image2 {
-    0% {
-        background-image: url(../images/gamingdesksetup_1.jpg);
-    }
-    25% {
-        background-image: url(../images/inspiration-and-tips-for-your-ultimate-desk-gaming-pc-setup-645.jpg);
-    }
-    45% {
-        background-image: url(../images/white-desk.jpg);
-    }
-    68% {
-        background-image: url(../images/72f8a4c7b8f1ad834477d621217a20b1.jpg);
-    }
-    90% {
-        background-image: url(../images/productionstudioweb.jpg);
-    }
-    100% {
-        background-image: url(../images/gamingdesksetup_1.jpg);
-    }
-}
-
-@keyframes change-image3 {
-    0% {
-        background-image: url(../images/headphones.jpg);
-    }
-    12% {
-        background-image: url(../images/jq68EgAzTTGPUi4mwY9vhN-1200-80.jpg);
-    }
-    24% {
-        background-image: url(../images/books2.jpg);
-    }
-    36% {
-        background-image: url(../images/youtube.png);
-    }
-    50% {
-        background-image: url(../images/final\ anime.png);
-    }
-    55% {
-        background-image: url(../images/Ableton-Live-Main-1204x642.jpg);
-    }
-    70% {
-        background-image: url(../images/cooking.jpeg);
-    }
-    86% {
-        background-image: url(../images/anime.jpg);
-    }
-    100% {
-        background-image: url(../images/headphones.jpg);
-    }
-}
-
-.violet {
-    background-color: #beb7df;
-    opacity: 0.75;
-}
-
-.brown {
-    color: #7a5230;
-}
-
-.whitetext {
-    color: white;
-}
-
-.gold {
-    color: gold;
-}
-
-.box-animation {
-    animation-name: change-image;
-    animation-duration: 75s;
-    animation-iteration-count: infinite;
-    padding: 0%;
-    box-sizing: inherit;
-}
-
-div.box-animation {
-    animation-name: change-image2;
-    animation-duration: 35s;
-    animation-iteration-count: infinite;
-    padding: 15%;
-    box-sizing: inherit;
-}
-
-.box-animation2 {
-    animation-name: change-image3;
-    animation-duration: 32s;
-    animation-iteration-count: infinite;
-    padding: 10%;
-    box-sizing: inherit;
-}
-
-.whitebackground {
-    background-color: azure;
-}
-
-hr.double {
-    height: 10px;
-    border-top: 5px double#92623a;
-}
-
-hr {
-    height: 10px;
-    border-top: 5px double#f4f7fa;
-}
-
-.right {
-    text-align: left;
-}
-
-.bluebackground {
-    background-color: #17c1d8;
-    opacity: 0.75;
-}
-
-.padding {
-    padding-top: 40px;
-    padding-bottom: 40px;
-}
-
-.defaulttext {
-    color: #0d6ff0;
-}
-
-body {
-    background-color: #4a6783;
-}
-
-h1.padding {
-    padding-top: 60px;
-    padding-bottom: 60px;
-    opacity: 1;
-}
-
-.edges {
-    border-radius: 10px;
-}
-
-.dark {
-    background-color: #373d43;
-}
-
-.bigtext {
-    font-size: 2em;
-}
-
-h3 {
-    font-family: "Otomanopee One", sans-serif;
-    font-size: 2sem;
-}
-
-.fantasy {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-}
-
-.list1 {
-    font-family: "Yomogi", cursive;
-}
-
-.nsize {
-    font-size: 1em;
-}
-
-h1 ul.darkt {
-    color: black;
-}
-
-.img-container {
-    text-align: center;
-    display: block;
-}
-
-footer {
-    opacity: 0.9;
-}
 
