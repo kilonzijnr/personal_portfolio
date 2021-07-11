@@ -6,6 +6,7 @@ h1 {
 }
 body {
     background-image: url(../images/javier-martinez-hUD0PUczwJQ-unsplash.jpg);
+
     background-size: 100%;
 }
 nav {
@@ -16,7 +17,13 @@ h2{
     color: rgb(0, 0, 0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-footer{
+.footer{text-align: justify;
     color: rgb(140, 173, 210);
     contain: layout;
+}
+nav{
+    text-align: center;
+}
+ intro{
+    color: teal;
 }
