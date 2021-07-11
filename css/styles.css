@@ -16,3 +16,7 @@ h2{
     color: rgb(0, 0, 0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+footer{
+    color: rgb(140, 173, 210);
+    contain: layout;
+}
