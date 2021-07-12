@@ -4,10 +4,9 @@ h1 {
     color: rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
 }
-body {
-    background-image: url(../images/javier-martinez-hUD0PUczwJQ-unsplash.jpg);
-
-    background-size: 100%;
+body{
+    background-image: url(../images/gradienta-kETkTQvJ7BI-unsplash.jpg);
+    background-size: cover;
 }
 nav {
     color: lawngreen;
