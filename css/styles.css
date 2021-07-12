@@ -6,7 +6,7 @@ h1 {
 }
 body{
     background-image: url(../images/gradienta-kETkTQvJ7BI-unsplash.jpg);
-    background-size: contain;
+    background-size: cover;
 }
 nav {
     color: lawngreen;
